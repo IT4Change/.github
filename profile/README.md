@@ -1,1 +1,3 @@
-## [IT4C Website](https://it4c.dev/)
+## IT4Change
+
+Visit our [Website](https://it4c.dev/)
